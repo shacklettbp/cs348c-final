@@ -1,1 +1,1 @@
-## Lightning or Icicle Simulation with CUDA
+# Lightning Simulation with CUDA
